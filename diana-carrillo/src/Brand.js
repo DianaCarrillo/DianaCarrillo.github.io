@@ -1,15 +1,14 @@
 import React from 'react';
 import photo from './images/diana-foto.jpeg'
+import { Container, Row, Col } from 'reactstrap';
 
 const brand = () => {
     return ( 
-    <div className="brand-container container-fluid col-12-lg-md-sm-xl">
-      <div className="row">    
+    <div className="brand-container col-12-lg-md-sm-xl">
+        <Col>    
         <h1 className="Diana-carrillo">Diana Carrillo</h1>
-      </div>
-     
+        </Col>          
         <img className="photo" src={photo} width='250' alt ="diana-carrillo"/> 
-    
     </div>
     )
 }

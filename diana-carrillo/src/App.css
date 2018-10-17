@@ -6,13 +6,9 @@
 }
 
 .links{
-  color:#fcf7f9;
+  color:#83072d;
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
-}
-
-.wine-color{
-
 }
 
 .photo{
@@ -25,14 +21,32 @@
 }
 
 .about-container {
-  /* margin-top:9%; */
-  /* width: 640px; */
-  /* background-color: #83072d; */
-color:white  
+}
+
+.projects-header{
+  color:black;
 }
 
 .sections{
-  background-color: #83072d;
-  padding-bottom: 625px;
-  color: white
+  background-color:  #fcf7f9;
+  padding-bottom: 550px;
+  color:#83072d; 
+}
+.about-me{
+  padding-top:3%;
+}
+
+
+.navbar{
+  background-color: #fcf7f9;
+  /* background:rgba(0,0,0,0.06); */
+}
+a:hover{
+  color: #fcf7f9 !important;
+}
+
+.project-links{
+  border: solid;
+  margin:5%;
+  /* padding:5%; */
 }

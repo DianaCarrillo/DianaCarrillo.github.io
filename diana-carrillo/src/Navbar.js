@@ -8,7 +8,7 @@ import {
   NavLink
  } from 'reactstrap';
 
-export default class  extends React.Component {
+export default class extends React.Component {
   constructor(props) {
     super(props);
 
@@ -25,21 +25,21 @@ export default class  extends React.Component {
   render() {
     return (
       <div>
-        <Navbar color="light" light expand="md">
-          <NavbarToggler onClick={this.toggle} />
+        <Navbar className="fixed-top navbar" light expand="md">
+          <NavbarToggler className="toggler" onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink className="links" href="/components/">About me</NavLink>
+                <NavLink className="links js-scroll-trigger"  href="#about-me">About me</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="links"href="#">Projects</NavLink>
+                <NavLink className="links"href="#projects">Projects</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="links" href="/components/">Work Tools</NavLink>
+                <NavLink className="links" href="#work-tools">Work Tools</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="links" href="/components/">Contact</NavLink>
+                <NavLink className="links" href="#contact">Contact</NavLink>
               </NavItem>
               {/* <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle nav caret>

@@ -5,9 +5,7 @@ import { Container, Row, Col } from 'reactstrap';
 const brand = () => {
     return ( 
     <div className="brand-container col-12-lg-md-sm-xl">
-        <Col>    
-        <h1 className="Diana-carrillo">Diana Carrillo</h1>
-        </Col>          
+        <h1 className="Diana-carrillo align-middle">Diana Carrillo</h1>
         <img className="photo" src={photo} width='250' alt ="diana-carrillo"/> 
     </div>
     )

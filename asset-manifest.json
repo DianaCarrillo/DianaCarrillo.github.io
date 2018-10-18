@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.ab2a8fa0.chunk.css",
-  "main.js": "/static/js/main.e6dbcb09.chunk.js",
-  "main.js.map": "/static/js/main.e6dbcb09.chunk.js.map",
+  "main.css": "/static/css/main.8a2431d2.chunk.css",
+  "main.js": "/static/js/main.4b03c549.chunk.js",
+  "main.js.map": "/static/js/main.4b03c549.chunk.js.map",
   "static/css/1.d5387e59.chunk.css": "/static/css/1.d5387e59.chunk.css",
   "static/js/1.90bf78c2.chunk.js": "/static/js/1.90bf78c2.chunk.js",
   "static/js/1.90bf78c2.chunk.js.map": "/static/js/1.90bf78c2.chunk.js.map",
@@ -10,10 +10,11 @@
   "static/media/diana-foto.jpeg": "/static/media/diana-foto.d7b63364.jpeg",
   "static/media/registro-visitantes.jpeg": "/static/media/registro-visitantes.d9e2a82c.jpeg",
   "static/media/greener.jpeg": "/static/media/greener.24815d6d.jpeg",
+  "static/media/App.css": "/static/media/26168281_10156790074183943_6396159282617658070_n.6fa2cc2d.jpg",
   "static/media/foodmap-responsive.jpeg": "/static/media/foodmap-responsive.9b7a4b42.jpeg",
-  "static/css/main.ab2a8fa0.chunk.css.map": "/static/css/main.ab2a8fa0.chunk.css.map",
+  "static/css/main.8a2431d2.chunk.css.map": "/static/css/main.8a2431d2.chunk.css.map",
   "static/css/1.d5387e59.chunk.css.map": "/static/css/1.d5387e59.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.066b1fd36879663bf6f7f7a86466dfe5.js": "/precache-manifest.066b1fd36879663bf6f7f7a86466dfe5.js",
+  "precache-manifest.f0a320fba11436f17d3bc3e05ba42a41.js": "/precache-manifest.f0a320fba11436f17d3bc3e05ba42a41.js",
   "service-worker.js": "/service-worker.js"
 }

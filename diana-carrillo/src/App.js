@@ -4,7 +4,6 @@ import Navbar from './Navbar'
 import Brand from './Brand'
 import About from './About'
 import Projects from './Projects'
-import { Container, Row, Col } from 'reactstrap';
 
 class App extends Component {
   render() {

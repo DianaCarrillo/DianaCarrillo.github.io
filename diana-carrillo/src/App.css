@@ -1,18 +1,21 @@
 .Diana-carrillo{
-  color: #83072d;
+  /* color: #83072d; */
   font-size: 90px;
   text-align: center;
   font-family: 'Sofia', cursive;
 }
 
 .links{
-  color:#83072d;
+  /* color:#83072d; */
+color: white !important;
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
 }
 
 .photo{
   border-radius: 80%;
+  /* height: 4%; */
+  width: 30%;
 }
 
 .brand-container{
@@ -20,33 +23,48 @@
   margin-bottom:10%;
 }
 
-.about-container {
-}
-
 .projects-header{
   color:black;
 }
 
 .sections{
-  background-color:  #fcf7f9;
-  padding-bottom: 550px;
-  color:#83072d; 
+  /* background-image: url('./images/26168281_10156790074183943_6396159282617658070_n.jpg'); */
+  /* background-color:  #fcf7f9; */
+  color: black
 }
-.about-me{
+.about-me, .projects-header{
   padding-top:3%;
+  padding-bottom: 5%;
+font-weight: bold
 }
 
 
 .navbar{
-  background-color: #fcf7f9;
-  /* background:rgba(0,0,0,0.06); */
+    background-color: black;
 }
 a:hover{
-  color: #fcf7f9 !important;
+  color: pink!important;
 }
 
-.project-links{
-  border: solid;
-  margin:5%;
-  /* padding:5%; */
+
+
+.about-parragraph{
+  text-align: justify;
+  background-color: transparent;
+}
+
+.pink{
+/* color:pink; */
+color: rgb(255, 62, 179);
+border-bottom: solid black thin;
+padding-bottom: 2%;
+}
+
+.demo{
+background-color: white !important;
+color: rgb(255, 62, 179) !important;
+}
+.code{
+color: black !important;
+background-color:white !important;
 }

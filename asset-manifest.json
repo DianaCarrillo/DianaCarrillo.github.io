@@ -1,15 +1,16 @@
 {
-  "main.css": "/static/css/main.4e080ba2.chunk.css",
-  "main.js": "/static/js/main.becb71d6.chunk.js",
-  "main.js.map": "/static/js/main.becb71d6.chunk.js.map",
+  "main.css": "/static/css/main.47fbf7e8.chunk.css",
+  "main.js": "/static/js/main.a9b9952d.chunk.js",
+  "main.js.map": "/static/js/main.a9b9952d.chunk.js.map",
   "static/css/1.621e0ac1.chunk.css": "/static/css/1.621e0ac1.chunk.css",
   "static/js/1.eed3ab00.chunk.js": "/static/js/1.eed3ab00.chunk.js",
   "static/js/1.eed3ab00.chunk.js.map": "/static/js/1.eed3ab00.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/css/1.621e0ac1.chunk.css.map": "/static/css/1.621e0ac1.chunk.css.map",
-  "static/css/main.4e080ba2.chunk.css.map": "/static/css/main.4e080ba2.chunk.css.map",
+  "static/media/App.css": "/static/media/bricks-brickwall-brickwork-1022218.7bd4ffcf.jpg",
+  "static/css/main.47fbf7e8.chunk.css.map": "/static/css/main.47fbf7e8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.c22f78e20e8d45576865e77f3848d989.js": "/precache-manifest.c22f78e20e8d45576865e77f3848d989.js",
+  "precache-manifest.6d76aa311459aa01668d79804c16abe5.js": "/precache-manifest.6d76aa311459aa01668d79804c16abe5.js",
   "service-worker.js": "/service-worker.js"
 }

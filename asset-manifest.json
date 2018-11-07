@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.fae2b630.chunk.css",
-  "main.js": "/static/js/main.8b46984d.chunk.js",
-  "main.js.map": "/static/js/main.8b46984d.chunk.js.map",
+  "main.css": "/static/css/main.44780360.chunk.css",
+  "main.js": "/static/js/main.4b0bf319.chunk.js",
+  "main.js.map": "/static/js/main.4b0bf319.chunk.js.map",
   "static/css/1.953680d1.chunk.css": "/static/css/1.953680d1.chunk.css",
   "static/js/1.040cdf7b.chunk.js": "/static/js/1.040cdf7b.chunk.js",
   "static/js/1.040cdf7b.chunk.js.map": "/static/js/1.040cdf7b.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/css/1.953680d1.chunk.css.map": "/static/css/1.953680d1.chunk.css.map",
   "static/media/diana-foto.jpeg": "/static/media/diana-foto.d7b63364.jpeg",
-  "static/css/main.fae2b630.chunk.css.map": "/static/css/main.fae2b630.chunk.css.map",
+  "static/css/main.44780360.chunk.css.map": "/static/css/main.44780360.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.acf04ad28cf1e301b943d185cf23d8fe.js": "/precache-manifest.acf04ad28cf1e301b943d185cf23d8fe.js",
+  "precache-manifest.0571bcb99b34fe1cfc32d80fa9f4b90e.js": "/precache-manifest.0571bcb99b34fe1cfc32d80fa9f4b90e.js",
   "service-worker.js": "/service-worker.js"
 }

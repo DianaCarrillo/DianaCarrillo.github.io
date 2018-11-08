@@ -12,31 +12,27 @@ self.__precacheManifest = [
     "url": "/static/media/foodmap-desktop.4143d5eb.jpeg"
   },
   {
-    "revision": "d7b633649962fbf5e9beb0f8b71a4489",
-    "url": "/static/media/diana-foto.d7b63364.jpeg"
-  },
-  {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "de00fe958f434d796ae7",
-    "url": "/static/js/main.de00fe95.chunk.js"
+    "revision": "6ba50ac7af791ba0d738",
+    "url": "/static/js/main.6ba50ac7.chunk.js"
   },
   {
-    "revision": "0ecc9b27554032db22f5",
-    "url": "/static/js/1.0ecc9b27.chunk.js"
+    "revision": "0d87284f04f50f7b29df",
+    "url": "/static/js/1.0d87284f.chunk.js"
   },
   {
-    "revision": "de00fe958f434d796ae7",
-    "url": "/static/css/main.273f95c1.chunk.css"
+    "revision": "6ba50ac7af791ba0d738",
+    "url": "/static/css/main.d570f6e1.chunk.css"
   },
   {
-    "revision": "0ecc9b27554032db22f5",
-    "url": "/static/css/1.48526dbe.chunk.css"
+    "revision": "0d87284f04f50f7b29df",
+    "url": "/static/css/1.530f3253.chunk.css"
   },
   {
-    "revision": "c01e3f572c9eccd3ecdb5cdb7584994a",
+    "revision": "81affa63cc1911048deb01fd4e95869f",
     "url": "/index.html"
   }
 ];

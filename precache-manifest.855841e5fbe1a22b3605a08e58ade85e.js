@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/sashimi.424244c1.jpg"
   },
   {
-    "revision": "beae41d8c730402e9d74",
-    "url": "/static/css/main.5c5f310a.chunk.css"
+    "revision": "352dc48f839fdaefbfe0",
+    "url": "/static/css/main.660e98da.chunk.css"
   },
   {
     "revision": "1cf524608de16d62ec9a8f4c204e9717",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "beae41d8c730402e9d74",
-    "url": "/static/js/main.beae41d8.chunk.js"
+    "revision": "352dc48f839fdaefbfe0",
+    "url": "/static/js/main.352dc48f.chunk.js"
   },
   {
     "revision": "24815d6d08ba7bbe242000e8acaa28fe",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.48526dbe.chunk.css"
   },
   {
-    "revision": "e277dc103ab6db4a3142713557a50f00",
+    "revision": "79413f911f0ca6248d4fae8b1d5475e7",
     "url": "/index.html"
   }
 ];

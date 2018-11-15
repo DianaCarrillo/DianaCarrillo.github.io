@@ -1,27 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "424244c1725f33f9a3073430cde5570d",
-    "url": "/static/media/sashimi.424244c1.jpg"
+    "revision": "ef78ff0a40bc7e65efe1a631a165b172",
+    "url": "/static/media/DianaC-CV.ef78ff0a.pdf"
   },
   {
-    "revision": "3eef9c3c9d912705e77d",
-    "url": "/static/css/main.35b2b7ea.chunk.css"
+    "revision": "48780ef97bbbe6186357",
+    "url": "/static/css/main.0c7aab79.chunk.css"
   },
   {
     "revision": "1cf524608de16d62ec9a8f4c204e9717",
     "url": "/static/media/blue-blur-color-932638.1cf52460.jpg"
   },
   {
-    "revision": "89c2cc7ab69e9f168c56",
-    "url": "/static/js/1.89c2cc7a.chunk.js"
+    "revision": "5c9fed96733c4aca1d52",
+    "url": "/static/js/1.5c9fed96.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "3eef9c3c9d912705e77d",
-    "url": "/static/js/main.3eef9c3c.chunk.js"
+    "revision": "424244c1725f33f9a3073430cde5570d",
+    "url": "/static/media/sashimi.424244c1.jpg"
+  },
+  {
+    "revision": "48780ef97bbbe6186357",
+    "url": "/static/js/main.48780ef9.chunk.js"
   },
   {
     "revision": "24815d6d08ba7bbe242000e8acaa28fe",
@@ -36,11 +40,11 @@ self.__precacheManifest = [
     "url": "/static/media/registro-visitantes.d9e2a82c.jpeg"
   },
   {
-    "revision": "89c2cc7ab69e9f168c56",
-    "url": "/static/css/1.48526dbe.chunk.css"
+    "revision": "5c9fed96733c4aca1d52",
+    "url": "/static/css/1.953680d1.chunk.css"
   },
   {
-    "revision": "3a84af90b2f66464dad3926393c82d6e",
+    "revision": "47bd6143a62475998274535c46eba5e7",
     "url": "/index.html"
   }
 ];

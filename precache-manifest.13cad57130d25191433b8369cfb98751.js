@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/DianaC-CV.ef78ff0a.pdf"
   },
   {
-    "revision": "48780ef97bbbe6186357",
-    "url": "/static/css/main.0c7aab79.chunk.css"
+    "revision": "a1d70ceac0ed3c16fd78",
+    "url": "/static/css/main.6416ac90.chunk.css"
   },
   {
     "revision": "1cf524608de16d62ec9a8f4c204e9717",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "424244c1725f33f9a3073430cde5570d",
-    "url": "/static/media/sashimi.424244c1.jpg"
+    "revision": "745310860de911b23a9dc59513da628b",
+    "url": "/static/media/sashimi.74531086.jpg"
   },
   {
-    "revision": "48780ef97bbbe6186357",
-    "url": "/static/js/main.48780ef9.chunk.js"
+    "revision": "a1d70ceac0ed3c16fd78",
+    "url": "/static/js/main.a1d70cea.chunk.js"
   },
   {
     "revision": "24815d6d08ba7bbe242000e8acaa28fe",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.953680d1.chunk.css"
   },
   {
-    "revision": "47bd6143a62475998274535c46eba5e7",
+    "revision": "c0ac12cdb92bd9a17fef35215dd28018",
     "url": "/index.html"
   }
 ];

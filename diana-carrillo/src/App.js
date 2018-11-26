@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './Navbar'
 import Brand from './Brand'
 import About from './About'
-import { Container, Row, Col } from 'reactstrap';
+import Projects from './Projects'
 
 class App extends Component {
   render() {
@@ -13,14 +13,14 @@ class App extends Component {
           <Navbar />
         </header>
         <section className="container">
-          <Row>
-             <Brand />
-          </Row>
-      </section>
-      <section className=" wine-color sections">
+          <Brand />
+        </section>
+        <section className=" wine-color sections">
           <About />
-      
-      </section>
+        </section>
+        <section className="">
+          <Projects />
+        </section>
       </div>
     );
   }

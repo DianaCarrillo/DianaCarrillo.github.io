@@ -1,0 +1,30 @@
+.icons-work, .soft-skill{
+    margin:5%;
+    display: inline-block
+}
+
+.skills-list{
+    list-style-type: none;
+}
+
+ul span{
+    display: block;
+    margin:0;
+    /* color:rgb(158, 53, 74); */
+    font-family: 'Raleway', sans-serif;    
+    font-weight: bold
+}
+
+li{
+    text-align:center;
+}
+
+.span-p{
+    font-size: 13px;
+}
+
+.soft-skill{
+    /* background-color:black; */
+    padding: 15px;
+    /* margin: black; */
+}

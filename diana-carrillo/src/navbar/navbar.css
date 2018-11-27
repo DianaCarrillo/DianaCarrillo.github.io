@@ -1,0 +1,54 @@
+.navbar{
+    background-color: black;
+    display: block;
+}
+a:hover{
+  color: rgb(33, 196, 190)!important;
+}
+
+.links{
+   color:#83072d; 
+   color: white !important;
+   font-family: 'Raleway', sans-serif; 
+   font-weight: bold;
+   margin-right:50px;
+  }
+
+  .icons{
+    color: white !important;
+
+  }
+
+
+.navbott{
+  background-image: url('../images/gold.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  bottom: 0;
+  padding-top:15px;
+  padding-bottom: 15px;
+  display:none;
+  text-align: center;
+  width: 100%;
+}
+
+@media (max-width:768px) and (max-device-width : 1024px){
+  .navbott{
+    display: block;
+  }
+  .navbar{
+    display:none !important;
+  }
+}
+
+.navbar a:hover {
+  color: black;
+}
+
+.link-icon{
+  margin-left:7%;
+  margin-right: 7%;
+}

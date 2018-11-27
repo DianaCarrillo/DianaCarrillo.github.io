@@ -1,0 +1,29 @@
+.contact-i{
+padding-top:5%; 
+padding-bottom:50px; 
+padding-right:3%;
+padding-left:3%;
+color: white
+}
+
+.contact-container{
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    background-image: url('../images/blue-blur-color-932638.jpg')
+}
+
+@media (max-width:768px){
+    .contact-i{
+      padding-bottom: 30%;
+    }
+   
+  }
+
+  .contact-header{
+    padding-top:3%;
+    color:white;
+    font-family: 'Raleway', sans-serif; 
+    text-align: left !important;
+  }
+  

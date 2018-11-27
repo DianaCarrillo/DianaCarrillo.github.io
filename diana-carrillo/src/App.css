@@ -1,70 +1,38 @@
-.Diana-carrillo{
-  /* color: #83072d; */
-  font-size: 90px;
-  text-align: center;
-  font-family: 'Sofia', cursive;
-}
 
-.links{
-  /* color:#83072d; */
-color: white !important;
-  font-family: 'Raleway', sans-serif;
+.about-me, .tech-skills,.projects-header, .skills{
+  padding-top:3%;
+  padding-bottom: 5%;
   font-weight: bold;
-}
-
-.photo{
-  border-radius: 80%;
-  /* height: 4%; */
-  width: 30%;
-}
-
-.brand-container{
+  font-family: 'Raleway', sans-serif; 
   text-align: center;
-  margin-bottom:10%;
 }
 
-.projects-header{
-  color:black;
+html{
+  height: 100%;
+  
+}
+body{
+  background-color:#FFFFFF;
+    /* background-size: cover; */
+    height: 100%;
+  background-image: url('../src/images/blue-blur-color-932638.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+  body{
+    background-size: 100% 50%;
+  }
+}
+
+.contact-c{
+  text-align: center;
+  background-color:pink
 }
 
 .sections{
-  /* background-image: url('./images/26168281_10156790074183943_6396159282617658070_n.jpg'); */
-  /* background-color:  #fcf7f9; */
-  color: black
-}
-.about-me, .projects-header{
-  padding-top:3%;
-  padding-bottom: 5%;
-font-weight: bold
-}
-
-
-.navbar{
-    background-color: black;
-}
-a:hover{
-  color: pink!important;
-}
-
-
-
-.about-parragraph{
-  text-align: justify;
-  background-color: transparent;
-}
-
-.pink{
-/* color:pink; */
-color: rgb(255, 62, 179);
-border-bottom: solid black thin;
-padding-bottom: 2%;
-}
-
-.demo{
-background-color: white !important;
-color: rgb(255, 62, 179) !important;
-}
-.code{
-color: black !important;
-background-color:white !important;
+padding-top:9%;
 }

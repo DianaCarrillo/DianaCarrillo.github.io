@@ -1,0 +1,23 @@
+.demo-links{
+    background-color: rgb(33, 196, 190) !important;
+border-color:   rgb(33, 196, 190) !important; 
+}
+.code-links{
+    background-color: black !important;
+    /* color:white !important; */
+    border-color:black !important;
+    margin: 1%;
+    }
+
+#projects{
+    /* border: solid black; */
+    margin-bottom: 50px;
+    /* padding: 3%; */
+    text-align: center
+    }
+
+
+
+    .projects-header{
+/* text-align: left !important; */
+    }

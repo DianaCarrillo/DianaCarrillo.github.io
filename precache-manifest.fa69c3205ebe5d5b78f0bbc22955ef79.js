@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/DianaC-CV.ef78ff0a.pdf"
   },
   {
-    "revision": "30895b191539c633015f",
-    "url": "/static/css/main.dc9b6d29.chunk.css"
+    "revision": "8a275f65a945e5c080d6",
+    "url": "/static/css/main.8b7d4768.chunk.css"
   },
   {
     "revision": "1cf524608de16d62ec9a8f4c204e9717",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/sashimi.74531086.jpg"
   },
   {
-    "revision": "30895b191539c633015f",
-    "url": "/static/js/main.30895b19.chunk.js"
+    "revision": "8a275f65a945e5c080d6",
+    "url": "/static/js/main.8a275f65.chunk.js"
   },
   {
     "revision": "24815d6d08ba7bbe242000e8acaa28fe",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.953680d1.chunk.css"
   },
   {
-    "revision": "1b54331b067951d9c47a2557801c488c",
+    "revision": "974aa1abe2ad894541eda8b628a9829b",
     "url": "/index.html"
   }
 ];

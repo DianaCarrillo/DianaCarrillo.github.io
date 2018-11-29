@@ -5,44 +5,76 @@
 
   }
   .about-container{
-    /* margin:1%; */
-    /* padding: 3%; */
-    position: relative;
     margin-top: 350px;
 
   }
   
-  .about-me{
-    /* text-align:center */
-    /* margin-left:px !important; */
-  }
+
   .diana-foto{
     border-radius: 200px;
-    text-align: center;
     position: absolute;
-    margin-left:17px;
-    /* margin-top:30%; */
   }
 
   .cv-button{
     background-color:rgb(33, 196, 190) !important;
     border-color: rgb(33, 196, 190) !important;
   }
-  @media (max-width:768px){
-    /* .diana-foto{ */
-      /* margin-top:-40%; */
-      /* position: relative;
-      margin-left:5% ;
-      margin-bottom: 5%;
-    }  */
-    
-  }
-
-  @media (min-width:768px) and (max-width:991.98px){
-      .about-container{
-      /* margin-top:-70px; */
-    }
+    @media (max-width:768px) and (max-width:600px) and (max-width:800px) {
     .diana-foto{
-      position:relative;
+      margin-top:60px; 
+      position: relative; 
+      width: 200px;
+      left: 20%;
+     } 
+     .about-container{
+      margin-top:-70px;
+      }
+  }   
+
+  /* ipad pro */
+  @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+    .about-container{
+     margin-top: 500px;
     }
   }
+  @media only screen  and (device-width : 375px)  and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) { 
+    .about-container{
+      margin-top: 150px;
+     }
+    }
+    /* iphone 6,7,8 */
+   @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+    .about-container{
+      margin-top: 40px;
+     }
+    }
+/* 6,7,8 plus */
+    @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (-webkit-device-pixel-ratio: 3) { 
+      .about-container{
+        margin-top: 40px;
+       }
+       .diana-foto{
+        position:relative;
+        left: 25%;
+      }
+    }
+    @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (-webkit-device-pixel-ratio: 2) { 
+      .diana-foto{
+        position: relative;
+        left:15%;
+      }
+    }
+    /* ipad */
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) 
+    { 
+      .about-container{
+        margin-top: 20px;
+       }
+       .diana-foto{
+       margin-top:-100px;
+       width: 200px;
+      }
+      .about-parragraph{
+        margin-top:30px;
+      }
+    }

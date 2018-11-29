@@ -1,30 +1,22 @@
 .icons-work, .soft-skill{
-    margin:5%;
-    display: inline-block
-}
-
-.skills-list{
-    list-style-type: none;
+    margin:5px;
+    display: block;
+    color: #E8D956;
 }
 
 ul span{
-    display: block;
-    margin:0;
+    /* display: inline; */
+    /* margin:0; */
     /* color:rgb(158, 53, 74); */
     font-family: 'Raleway', sans-serif;    
-    font-weight: bold
+    font-weight: bolder
 }
 
 li{
     text-align:center;
 }
 
-.span-p{
-    font-size: 13px;
-}
 
-.soft-skill{
-    /* background-color:black; */
-    padding: 15px;
-    /* margin: black; */
+.card-style{
+border-color: #E8D956 !important;
 }
